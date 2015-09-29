@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+main-class: p2p.Server
+class-path: lib/gson-2.3.jar
